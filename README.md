@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Python Programming MOOC 2026" width="600px">
+  <img src="banner.png" alt="Python Programming MOOC 2026" height="600px">
 </p>
 
 # 🐍 Python Programming MOOC 2026 — Solutions
