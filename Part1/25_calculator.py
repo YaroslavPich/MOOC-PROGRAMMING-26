@@ -1,0 +1,9 @@
+number1 = int(input("Number 1: "))
+number2 = int(input("Number 2: "))
+operation = input("Operation: ")
+if operation == "add":
+    print(number1,'+',number2,'=',number1+number2)
+if operation == "multiply":
+    print(number1,'*',number2,'=',number1*number2)
+if operation == "subtract":
+    print(number1,'-',number2,'=',number1-number2)
